@@ -1,7 +1,4 @@
-package DSA;
-
-import java.sql.SQLOutput;
-import java.util.Scanner;
+package DSA.ArrayDataStructure;
 
 // String[] here it is declared, Student is an object and
 // memory will allocate to that object.

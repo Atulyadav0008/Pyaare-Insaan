@@ -1,4 +1,4 @@
-package DSA;
+package DSA.ArrayDataStructure;
 import java.util.Arrays;
 
 public class ArraybyFunction {
